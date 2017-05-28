@@ -54,6 +54,13 @@ public class Json {
         this.JSON = new JSONObject(sb.toString());
     }
 
+    public Json(IJsonDataSource DataSource) {
+        if (DataSource == null)
+            throw new IllegalArgumentException("DataSource cannot be null.");
+
+        this.JSON = DataSource.getJson();
+    }
+
     public boolean authenticate(String Username, String Password) {
 
         JSONObject UserInfo = null;
