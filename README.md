@@ -1,5 +1,5 @@
 MyWorkspace Application 
 
-.Currency Exchange with fixer.io
-.Simple Calculator
+Currency Exchange with fixer.io
+Simple Calculator
 
