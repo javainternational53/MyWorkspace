@@ -1,10 +1,10 @@
-MyWorkspace Application 
+MyWorkspace Application 2018 Edition
 
-Currency Exchange with fixer.io
-and Simple Calculator
+Currency Exchange with fixer.io and Simple Calculator just for fun.
 
-This is not a maven Project.
-You need this Jar files : 
+Please note that this is  not a maven Project.
+
+You need these Jar files: 
 
 hamcrest-core-1.3,
 jfoenix,
@@ -19,4 +19,4 @@ slf4j-api-1.7.25,
 slf4j-log4j12-1.0,
 slf4j-log4j12-1.7.25
 
-Powered by Intellij idea
+Powered by Intellij Idea
