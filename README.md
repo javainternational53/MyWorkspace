@@ -1,1 +1,5 @@
-# MyWorkspace : All in all
+MyWorkspace Application 
+
+.Currency Exchange with fixer.io
+.Simple Calculator
+
